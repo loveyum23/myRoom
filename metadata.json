@@ -1,0 +1,5 @@
+{
+  "name": "Firebase Auth Portal",
+  "description": "Firebase Authentication을 활용한 깔끔하고 전문적인 회원가입 및 로그인 포털입니다.",
+  "requestFramePermissions": []
+}
